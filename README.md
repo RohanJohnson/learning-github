@@ -1,4 +1,4 @@
-# Differences-between-remote-and-local-repo
+# Differences between remote and local repo 
 
 A remote Git repository is a version of your project that is hosted on the internet or network, while a local Git repository is a version of your project that is stored on your local machine. 
 
