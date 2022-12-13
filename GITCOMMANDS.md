@@ -76,7 +76,7 @@ The command for this is
 "git checkout -b {branch name}"
 
 
-## Select branch
+## Select branch 
 
 To select which branch you want to work on at any given time you use the command
 "git checkout {branch name}"
