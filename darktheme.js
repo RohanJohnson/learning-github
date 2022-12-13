@@ -9,13 +9,15 @@ const darkThemeStylesheet = document.querySelector('#dark-theme');
 function switchTheme() {
     // If the dark theme stylesheet is applied, remove it and apply the light theme stylesheet
     if (darkThemeStylesheet.disabled) {
-        darkThemeStylesheet.disabled = false;
         lightThemeStylesheet.disabled = true;
+        darkThemeStylesheet.disabled = false;
+
     }
     // Otherwise, apply the dark theme stylesheet
     else {
-        darkThemeStylesheet.disabled = true;
         lightThemeStylesheet.disabled = false;
+        darkThemeStylesheet.disabled = true;
+
     }
 }
 
