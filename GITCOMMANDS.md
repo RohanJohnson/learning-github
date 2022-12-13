@@ -31,3 +31,11 @@ You want to make sure that you make a new folder for this repository as it is go
 
 To add a file to the working tree you use the command
 "git add {file name}" or "git add --all"
+
+
+## Add-a-commit
+
+To add a commit you use the command
+"git commit"
+Note: you should always add a message when you make new commits. You do this with the command
+"git commit -m "{message}"
